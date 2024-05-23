@@ -1,8 +1,8 @@
 # Sahara
 
- Aprendizagem de animação de card junto com estruturação básica de uma página web de viagens.
-  
-- Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
+- Aprendizagem de animação de card junto com estruturação básica de uma página web de viagens.
+
+- Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
 
 # Visualize o site abaixo:
 
